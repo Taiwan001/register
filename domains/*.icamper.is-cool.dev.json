@@ -1,0 +1,19 @@
+{
+  "description": "for cloudflare workers and pages apps debug, thx",
+
+  "domain": "is-cool.dev",
+  "subdomain": "*.icamper",
+
+  "owner": {
+    "email": "a013cc666@outlook.com"
+  },
+
+  "record": {
+    "NS": [
+      "savanna.ns.cloudflare.com",
+      "trey.ns.cloudflare.com"
+    ]
+  },
+
+  "proxied": true
+}
