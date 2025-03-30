@@ -1,0 +1,19 @@
+{
+  "description": "for personal website building",
+
+  "domain": "is-local.org",
+  "subdomain": "*.hiliamsu",
+
+  "owner": {
+    "email": "a013cc666@outlook.com"
+  },
+
+  "record": {
+    "NS": [
+      "savanna.ns.cloudflare.com",
+      "trey.ns.cloudflare.com"
+    ]
+  },
+
+  "proxied": true
+}
